@@ -12,7 +12,7 @@ cd ~/MagicMirror/modules
 
 Clone this repository:
 ```bash
-git clone https://github.com/kolbyjack/MMM-MonthlyCalendar.git
+git clone https://github.com/brmfulasha/MMM-MonthlyCalendar.git
 ```
 
 Configure the module in your `config.js` file.
