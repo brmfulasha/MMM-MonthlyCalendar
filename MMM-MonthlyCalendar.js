@@ -187,6 +187,7 @@ Module.register("MMM-MonthlyCalendar", {
       "twoweeks": 7,
       "threeweeks": 14,
       "fourweeks": 21,
+      "fiveweeks": 28,
       "nextfourweeks": 21,
     };
     const self = this;
